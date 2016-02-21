@@ -4,6 +4,6 @@ package App::ExtractCPANModulesFromHTML;
 # VERSION
 
 1;
-# ABSTRACT:
+# ABSTRACT: Extract CPAN modules from HTML document (CLI distribution)
 
 =cut
